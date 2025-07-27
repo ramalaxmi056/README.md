@@ -1,1 +1,1 @@
-# README.md
+Executed an Excel Analysis with Dashboard project, providing a streamlined and insightful data visualization solution. This project enhanced data-driven decision-making capabilities by consolidating from orders,sales,states,age,category and channels into an easily accessible and interactive dashboard.# README.md
